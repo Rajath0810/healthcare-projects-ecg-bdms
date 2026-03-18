@@ -2,6 +2,7 @@
 ECG Disease Detection using Machine Learning and Blood Donor Management System
 
 ## Overview
+This repository includes complete project documentation, system design, and implementation details.
 
 This repository contains two academic projects focused on healthcare applications:
 
@@ -9,6 +10,7 @@ This repository contains two academic projects focused on healthcare application
 2. Blood Donor Management System (Web Application)
 
 These projects demonstrate practical implementation of machine learning and full-stack development to solve real-world healthcare problems.
+
 
 
 ## Project 1: ECG Disease Detection using Machine Learning
